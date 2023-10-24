@@ -1,1 +1,1 @@
-[embed]React_Assignment.pdf[/embed>]
+![image info](./React_Assignment.jpg)
