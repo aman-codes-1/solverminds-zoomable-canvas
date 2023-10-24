@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/solverminds-zoomable-canvas/static/css/main.5fd155a9.css",
+    "main.js": "/solverminds-zoomable-canvas/static/js/main.66a5c788.js",
+    "static/js/787.d9f915ec.chunk.js": "/solverminds-zoomable-canvas/static/js/787.d9f915ec.chunk.js",
+    "index.html": "/solverminds-zoomable-canvas/index.html",
+    "main.5fd155a9.css.map": "/solverminds-zoomable-canvas/static/css/main.5fd155a9.css.map",
+    "main.66a5c788.js.map": "/solverminds-zoomable-canvas/static/js/main.66a5c788.js.map",
+    "787.d9f915ec.chunk.js.map": "/solverminds-zoomable-canvas/static/js/787.d9f915ec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5fd155a9.css",
+    "static/js/main.66a5c788.js"
+  ]
+}
