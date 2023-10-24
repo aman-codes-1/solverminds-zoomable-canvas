@@ -1,6 +1,8 @@
 # Task
 
-## To create a drawing by using Canvas with Zoom in/out option. The symbols with in the square box should be clear while zoom out.
+## To create a drawing by using Canvas with Zoom in/out option
+
+### The symbols with in the square box should be clear while zoom out
 
 As shown in the below diagram, please follow the below steps:
 
