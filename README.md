@@ -1,7 +1,6 @@
 # Task
 
-To create a drawing by using Canvas with Zoom in/out option. The symbols with in the
-square box should be clear while zoom out.
+## To create a drawing by using Canvas with Zoom in/out option. The symbols with in the square box should be clear while zoom out
 
 As shown in the below diagram, please follow the below steps:
 
@@ -13,5 +12,5 @@ As shown in the below diagram, please follow the below steps:
 *) and centre of that block the number should be given as 1, in which the maximum
 font size should be 14 and while zooming out it should be visible clearly
 
-Note: The below image shows the results for 4 columns. User can increase the number of
+**Note:** The below image shows the results for 4 columns. User can increase the number of
 column size and should follow the above steps.
